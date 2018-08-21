@@ -6,7 +6,7 @@ This application has a function that generates a CSV report based on a list of c
 The users are complaining that the CSV report takes 10 seconds or more to generate.  
 They would like report to generate in 2 seconds or less.
 
-## Your Task
+## Your Task.
 In your pull request
 * Describe in detail the reason that the CSV report is generating slowly.
   * Hint, it's not just because of the 100,000 iteration loop.
